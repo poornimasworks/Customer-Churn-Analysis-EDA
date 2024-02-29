@@ -7,14 +7,6 @@ Insights
 Below are the Insights gathered by implementing univariate Analysis.
 Gender,Phone service, Multiple line are not important columns in Churn Analysis.
 Senoir Citizens are most likely to churn.
-Customers with no partner are most likely to churn.
-Customers with fiber optics internet service are most likely to churn.
-Customers with no dependent are most likely to churn.
-Customers with no online security are most likely to churn.
-Customers with no online backup are most likely to churn.
-Customers with no device protection are most likely to churn.
-Customers with no Technical Support are most likely to churn.
+Customers with no partner, customer with fiber optics internet service, Customers with no dependent, Customers with no online security, Customers with no online backup, Customers with no device protection, Customers with no Technical Support, Customer with month-to-month contract and Customer with electronic check payment methodare most likely to churn.
 Customers with no streaming movies likely to churn.
-Customer with month-to-month contract are most likely to churn.
 Customer with paperless billing are more likely to churn.
-Customer with electronic check payment method are most likely to churn.
